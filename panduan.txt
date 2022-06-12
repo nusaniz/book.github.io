@@ -1,0 +1,10 @@
+panduan file penting
+
+// merubah logo
+\files\mobile-ext
+
+// merubah tulisan watermark tengah
+\mobile\javascript\config.js
+		productName : 'Hak cipta nizar',
+	    homePage : '',
+		bookConfig.bookTitle="Nizar"
