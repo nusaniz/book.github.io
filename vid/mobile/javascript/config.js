@@ -127,7 +127,7 @@ btnTableOfContent:["btnBookMark"]
 	OpenWindow:"_Blank",
 
 	BookMarkButtonVisible:'true',
-	productName : 'Hak cipta NizarF',
+	productName : 'Hak cipta Nizar',
 	homePage : '',
 	isFlipPdf : "true",
 	TableOfContentButtonVisible:"true",
