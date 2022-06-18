@@ -2574,7 +2574,7 @@ body{position:fixed;}
 
 	z-index:3;
 
-	background: #a63d3d;
+	background: #CCCCCC;
 	background-image: -moz-linear-gradient(left, #FCFCFC, #CCCCCC);
 	background-image: -webkit-gradient(linear,left top,right top,color-stop(0, #FCFCFC),color-stop(1, #CCCCCC));
 }
